@@ -1,0 +1,8 @@
+Leelai,Apr 26,8:23 PM,C++ Programming lesson,$26.00
+Leelai,Apr 26,3:39 PM,C++ Programming lesson,$85.67
+Debbie C.,Apr 26,1:58 PM,Java Programming lesson,$16.00
+vu,Apr 26,12:14 PM,Computer Engineering lesson,$12.00
+German,Apr 26,11:21 AM,C++ Programming lesson,$9.67
+James N.,Apr 25,7:01 PM,Java Programming lesson,$15.00
+Jody A.,Apr 25,5:45 PM,Computer Science lesson,$10.00
+Kylie,Apr 25,3:49 PM,Java Programming lesson,$10.00
